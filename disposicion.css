@@ -1,0 +1,33 @@
+.peces{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    height: 300px;
+    flex-wrap: wrap;
+}
+
+.pez1{
+    border: blueviolet;
+    width: min-content;
+}
+
+.pez2{
+    border: green;
+    width: min-content;
+}
+.pez3{
+    border: yellow;
+    width: min-content;
+}
+.pez4{
+    border: orangered;
+    width: min-content;
+}
+.pez5{
+    border: brown;
+    width: min-content;
+}
+.pez6{
+    border: gray;
+    width: min-content;
+}
